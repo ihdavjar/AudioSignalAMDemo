@@ -13,7 +13,11 @@ A simulation of the system can be found on Falstad. Below is a GIF demonstrating
 
 ![AM modulation Simulation](https://github.com/ihdavjar/AudioSignalAMDemo/blob/ea51794fb9d1f82d14aaf16958489530f95733ce/Resources/Video/am_falstad_demo.GIF)
 
+*Figure: Simulation of Amplitude Modulation (AM) using Falstad.*
+
 ![AM Demodulation Simulation](https://github.com/ihdavjar/AudioSignalAMDemo/blob/ea51794fb9d1f82d14aaf16958489530f95733ce/Resources/Video/am_dm_falstad.GIF)
+
+*Figure: Simulation of Amplitude Modulation (AM) and Demodulation using Falstad.*
 
 
 Falstad circuits for both amplitude modulation and demodulation can be found in the `Resources/Falstad` directory. These can be opened using [Falstad](https://www.falstad.com/circuit/).
